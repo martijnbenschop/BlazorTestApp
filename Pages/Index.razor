@@ -1,0 +1,32 @@
+@page "/"
+
+<PageTitle>PecuniaAPP</PageTitle>
+
+<h1>Hallo, wereld!</h1>
+<div padding="10px">
+    Welkom bij de PecuniaAPP.
+
+    <SfCalendar TValue="DateTime?"></SfCalendar>
+</div>
+
+
+<div id="wrapper" width="500">
+    <SfCard ID="card1">
+        <CardHeader Title="just a card" SubTitle="hoe werken cards?" />
+        <CardContent Content="Dit is een card" />
+        <CardImage Image="pictures/geld.jpg"></CardImage>
+    </SfCard>
+</div>
+
+<style>
+    #card1 {
+        text-align: center;
+        color: darkblue;
+        width: 200px;
+        height: 150%;
+        border: 3px;
+        border-width: 3px;
+        border-color: aliceblue;
+        display: flex;
+    }
+</style>
