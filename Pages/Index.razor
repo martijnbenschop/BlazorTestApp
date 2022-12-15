@@ -10,11 +10,13 @@
 </div>
 
 
-<div id="wrapper" width="500">
-    <SfCard ID="card1">
-        <CardHeader Title="just a card" SubTitle="hoe werken cards?" />
-        <CardContent Content="Dit is een card" />
+<div id="card1" width="500">
+    <SfCard Orientation="CardOrientation.Horizontal">
         <CardImage Image="pictures/geld.jpg"></CardImage>
+        <CardStacked>
+            <CardHeader Title="just a card" SubTitle="hoe werken cards?" />
+            <CardContent Content="Dit is een card" />
+        </CardStacked>
     </SfCard>
 </div>
 
@@ -22,7 +24,7 @@
     #card1 {
         text-align: center;
         color: darkblue;
-        width: 200px;
+        width: 300px;
         height: 150%;
         border: 3px;
         border-width: 3px;
