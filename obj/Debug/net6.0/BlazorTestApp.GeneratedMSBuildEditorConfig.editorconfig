@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorTestApp
 build_property.RootNamespace = BlazorTestApp
-build_property.ProjectDir = C:\Repos\BlazorTestApp\BlazorTestApp\
+build_property.ProjectDir = c:\Repos\BlazorTestApp\BlazorTestApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Repos\BlazorTestApp\BlazorTestApp
+build_property.MSBuildProjectDirectory = c:\Repos\BlazorTestApp\BlazorTestApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/App.razor]
+[c:/Repos/BlazorTestApp/BlazorTestApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Pages/APItest.razor]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Pages/APItest.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQVBJdGVzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Pages/Counter.razor]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Pages/FetchData.razor]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Pages/Index.razor]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Pages/Pecunia.razor]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Pages/Pecunia.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVjdW5pYS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Shared/SurveyPrompt.razor]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/_Imports.razor]
+[c:/Repos/BlazorTestApp/BlazorTestApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Shared/MainLayout.razor]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-adya9pica4
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Shared/NavMenu.razor]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-8ikbd225l3
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Pages/Error.cshtml]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Pages/_Host.cshtml]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repos/BlazorTestApp/BlazorTestApp/Pages/_Layout.cshtml]
+[c:/Repos/BlazorTestApp/BlazorTestApp/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
